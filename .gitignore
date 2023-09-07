@@ -4,3 +4,10 @@
 *.obj
 *.ilk
 *.pdb
+/.idea/leetcode-pro/editor.xml
+/.idea/leetcode-pro/statistics.xml
+/.idea/.gitignore
+/.idea/AlgorithmProblem.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
